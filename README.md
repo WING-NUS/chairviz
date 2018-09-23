@@ -1,4 +1,10 @@
-# VIZ Project from Publication Data
+# ChairViz - Analysis and Visualization engine for academic conference chairs
+
+Anyone chairing a conference/workshop? We have something for you.
+
+Chairviz uses conference metadata output from EasyChair to create charts and plots about
+acceptance ratios, submission times, author acceptances, keyword
+clouds, and track statistics.
                                                                                                      
 [![Alt text](https://img.youtube.com/vi/IwS_u90cAP4/0.jpg)](https://www.youtube.com/watch?v=IwS_u90cAP4)
 
