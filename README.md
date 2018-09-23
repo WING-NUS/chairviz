@@ -1,6 +1,8 @@
 # VIZ Project from Publication Data
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IwS_u90cAP4" frameborder="0" allow="autoplay;></iframe>
+                                                                                                        
+[![Alt text](https://img.youtube.com/vi/IwS_u90cAP4/0.jpg)](https://www.youtube.com/watch?v=IwS_u90cAP4)
 
 > A Vue.js project
 
